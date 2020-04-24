@@ -1,11 +1,3 @@
-/*Импорт*/
-@import url("/index.php?title=MediaWiki:Wikia.css/MPCode.css&ctype=text/css&action=raw");
-@import url(https://fonts.googleapis.com/css?family=Lato:300,400);@import url(https://fonts.googleapis.com/css?family=Oxygen);.ml {
-    font-family: "Segoe UI",Frutiger,"Frutiger Linotype","Dejavu Sans","Helvetica Neue",Arial,sans-serif
-}
-
-/*ML Структура страниц*/
-
 .ml .mailbox-wrapper .nav-list .list-group-item {
     border-width: 1px 0 0
 }
